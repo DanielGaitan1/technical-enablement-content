@@ -1,6 +1,6 @@
 # Technical Enablement Content
 
-Visual engineering content focused on Computer Science, Operating Systems, System Design, Networking, and Software Engineering.
+Technical communication portfolio focused on Computer Science, Systems, Infrastructure, Cybersecurity, and Software Engineering concepts through visual storytelling and multimedia explainers.
 
 Created by **Daniel Gaitan Chavez** — Computer Engineering Student at Universidad de Guadalajara (CUCEI).
 
@@ -11,6 +11,20 @@ Created by **Daniel Gaitan Chavez** — Computer Engineering Student at Universi
 This repository showcases technical educational material, engineering visualizations, and multimedia explainers designed to simplify complex computing concepts through structured communication and visual storytelling.
 
 The goal is not only to understand systems deeply, but also to communicate them clearly to different audiences through diagrams, presentations, infographics, and technical videos.
+
+---
+
+# Skills Demonstrated
+
+- Technical Communication
+- Systems Thinking
+- Visual Storytelling
+- Cybersecurity Concepts
+- Infrastructure Fundamentals
+- Educational Content Design
+- AI-assisted Multimedia Production
+- Software Engineering Documentation
+- Enterprise Technology Concepts
 
 ---
 
@@ -40,79 +54,75 @@ The goal is not only to understand systems deeply, but also to communicate them 
 
 ---
 
-# Technical Video Explainers
+# Featured Technical Video Explainers
 
-## Enterprise Infrastructure & Cybersecurity
+## Data Center Security & Infrastructure
 
-### Kerberoasting Attack Analysis
-- Active Directory security
-- Kerberos protocol
-- SPN exploitation
-- Offline credential attacks
-
-<video src="videos/KereberoastingAttack.mp4" width="700" controls></video>
-
----
-
-### Man-in-the-Middle (MITM) Attack Vectors
-- ARP poisoning
-- Packet interception
-- TLS/HTTPS mitigation
-- Network security fundamentals
-
-<video src="videos/Man in the middle.mp4" width="700" controls></video>
-
----
-
-### Data Center Security & Infrastructure
+Topics:
 - Physical and logical security
 - Redundancy systems
 - HVAC and energy management
 - Disaster recovery concepts
 
-<video src="videos/Data Center Manual seguridad.mp4" width="700" controls></video>
+[![Data Center Security](DataCenterSecurity.png)](videos/DataCenterManualSeguridad.mp4)
 
 ---
 
-# Software Engineering & System Design
+## Barber OS — Software Engineering Project (Part 1)
 
-## UML, Interaction & Architecture Modeling
+Topics:
+- Requirements analysis
+- Software engineering workflow
+- UML and architecture concepts
+- Technical communication
 
-### Defining Actors & System Boundaries
-<video src="videos/DefiningActors.mp4" width="700" controls></video>
-
----
-
-### Comprehensive UML Diagram Mapping
-<video src="videos/TodoslosDiagramas.mp4" width="700" controls></video>
+[![Barber OS Part 1](ProyectoBarberOS1.png)](videos/ProyectoBarberOS1.mp4)
 
 ---
 
-### Activity & State Diagram Modeling
-<video src="videos/ActivityAndStateDiagram.mp4" width="700" controls></video>
+## Barber OS — Software Engineering Project (Part 2)
+
+Topics:
+- GUI and interaction design
+- System implementation
+- User experience concepts
+- Project walkthrough
+
+[![Barber OS Part 2](ProyectoBarberOS2.png)](videos/ProyectoBarberOS2.mp4)
 
 ---
 
-### Interaction & Sequence Design
-<video src="videos/DiseñoInteraccion.mp4" width="700" controls></video>
+## Kerberoasting Attack Analysis
+
+Topics:
+- Active Directory security
+- Kerberos protocol
+- SPN exploitation
+- Offline credential attacks
+
+[![Kerberoasting Attack](KerberoastingAttack.png)](videos/KereberoastingAttack.mp4)
 
 ---
 
-### Structural Design Patterns
-<video src="videos/DiseñoEstructural.mp4" width="700" controls></video>
+## Man-in-the-Middle (MITM) Attack Vectors
+
+Topics:
+- ARP poisoning
+- Packet interception
+- TLS/HTTPS mitigation
+- Network security fundamentals
+
+[![MITM Attack](ManInTheMiddle.png)](videos/ManintheMiddle.mp4)
 
 ---
 
-### Relational Database Modeling
-<video src="videos/ModeloRelacional.mp4" width="700" controls></video>
+# Additional Technical Content
+
+Additional multimedia explainers, software engineering walkthroughs, cybersecurity demonstrations, and educational engineering material are available in the `/videos` directory.
+
+For the best viewing experience, videos can be accessed directly from the repository video folder.
 
 ---
-
-### GUI Interface & Human-Computer Interaction
-<video src="videos/GUI interface.mp4" width="700" controls></video>
-
----
-
 
 # Tools & Technologies
 
@@ -123,6 +133,7 @@ The goal is not only to understand systems deeply, but also to communicate them 
 - Database modeling
 - Multimedia editing tools
 - Git & GitHub
+- Linux & Virtualization Environments
 
 ---
 
@@ -137,3 +148,5 @@ Areas of Interest:
 - Technical Communication
 - Competitive Programming
 - AI-assisted Educational Content
+- Enterprise Technology
+- Cybersecurity & Networking
