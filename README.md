@@ -14,19 +14,7 @@ The goal is not only to understand systems deeply, but also to communicate them 
 
 ---
 
-# Skills Demonstrated
 
-- Technical Communication
-- Systems Thinking
-- Visual Storytelling
-- Cybersecurity Concepts
-- Infrastructure Fundamentals
-- Educational Content Design
-- AI-assisted Multimedia Production
-- Software Engineering Documentation
-- Enterprise Technology Concepts
-
----
 
 # Operating Systems Visualizations
 
@@ -48,11 +36,6 @@ The goal is not only to understand systems deeply, but also to communicate them 
 
 ---
 
-## Operating System Architectures
-
-<img src="EstructuraSistemaOperativo.jpeg" width="700"/>
-
----
 
 # Featured Technical Video Explainers
 
@@ -64,7 +47,7 @@ Topics:
 - HVAC and energy management
 - Disaster recovery concepts
 
-[![Data Center Security](DataCenterSecurity.png)](videos/DataCenterManualSeguridad.mp4)
+[![Data Center Security](DataCenterSecurity.png)](Videos/DataCenterManualSeguridad.mp4)
 
 ---
 
@@ -76,7 +59,7 @@ Topics:
 - UML and architecture concepts
 - Technical communication
 
-[![Barber OS Part 1](ProyectoBarberOS1.png)](videos/ProyectoBarberOS1.mp4)
+[![Barber OS Part 1](ProyectoBarberOS1.png)](Videos/ProyectoBarberOS1.mp4)
 
 ---
 
@@ -88,7 +71,7 @@ Topics:
 - User experience concepts
 - Project walkthrough
 
-[![Barber OS Part 2](ProyectoBarberOS2.png)](videos/ProyectoBarberOS2.mp4)
+[![Barber OS Part 2](ProyectoBarberOS2.png)](Videos/ProyectoBarberOS2.mp4)
 
 ---
 
@@ -100,7 +83,7 @@ Topics:
 - SPN exploitation
 - Offline credential attacks
 
-[![Kerberoasting Attack](KerberoastingAttack.png)](videos/KereberoastingAttack.mp4)
+[![Kerberoasting Attack](KerberoastingAttack.png)](Videos/KereberoastingAttack.mp4)
 
 ---
 
@@ -112,7 +95,7 @@ Topics:
 - TLS/HTTPS mitigation
 - Network security fundamentals
 
-[![MITM Attack](ManInTheMiddle.png)](videos/ManintheMiddle.mp4)
+[![MITM Attack](ManInTheMiddle.png)](Videos/ManintheMiddle.mp4)
 
 ---
 
@@ -136,6 +119,22 @@ For the best viewing experience, videos can be accessed directly from the reposi
 - Linux & Virtualization Environments
 
 ---
+
+# Skills
+
+- Technical Communication
+- Systems Thinking
+- Visual Storytelling
+- Cybersecurity Concepts
+- Infrastructure Fundamentals
+- Educational Content Design
+- AI-assisted Multimedia Production
+- Software Engineering Documentation
+- Enterprise Technology Concepts
+
+
+---
+
 
 # Author
 
