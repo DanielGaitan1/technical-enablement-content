@@ -53,7 +53,7 @@ Based on:
 - ISO 27001 concepts
 - Enterprise security and compliance practices
 
-[![Data Center Security](DataCenterSecurity.png)](https://youtu.be/coYWWqHdjvA)
+[![Data Center Security](DataCenterSecurity.jpeg)](https://youtu.be/coYWWqHdjvA)
 
 ---
 
@@ -69,7 +69,7 @@ Topics:
 Language:
 - English technical presentation
 
-[![Barber OS Part 1](ProyectoBarberOS1.png)](https://youtu.be/ZS2K9eaxds4)
+[![Barber OS Part 1](ProyectoBarberOS1.jpeg)](https://youtu.be/ZS2K9eaxds4)
 
 ---
 
@@ -85,7 +85,7 @@ Topics:
 Language:
 - English technical presentation
 
-[![Barber OS Part 2](ProyectoBarberOS2.png)](https://youtu.be/yZEbWO8Y77Q)
+[![Barber OS Part 2](ProyectoBarberOS2.jpeg)](https://youtu.be/yZEbWO8Y77Q)
 
 ---
 
@@ -109,7 +109,7 @@ Tools:
 - Mimikatz
 - Kerberos ticket extraction techniques
 
-[![Kerberoasting Attack](KerberoastingAttack.png)](https://youtu.be/HA0XJTRafYI)
+[![Kerberoasting Attack](KerberoastingAttack.jpeg)](https://youtu.be/HA0XJTRafYI)
 
 ---
 
@@ -130,7 +130,7 @@ Demonstration:
 - Analysis of unsecured communications over HTTP
 - Security implications of missing encryption layers
 
-[![MITM Attack](ManInTheMiddle.png)](https://youtu.be/TU_LINK_AQUI)
+[![MITM Attack](ManInTheMiddle.jpeg)](https://youtu.be/TU_LINK_AQUI)
 
 ---
 
