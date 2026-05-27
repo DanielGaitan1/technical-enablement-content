@@ -14,8 +14,6 @@ The goal is not only to understand systems deeply, but also to communicate them 
 
 ---
 
-
-
 # Operating Systems Visualizations
 
 ## Operating Systems Through Computer Generations
@@ -36,74 +34,111 @@ The goal is not only to understand systems deeply, but also to communicate them 
 
 ---
 
-
 # Featured Technical Video Explainers
 
 ## Data Center Security & Infrastructure
 
 Topics:
-- Physical and logical security
-- Redundancy systems
-- HVAC and energy management
-- Disaster recovery concepts
+- Security by Design
+- Data center physical and logical security
+- Redundancy systems and Availability Zones (AZ)
+- Disaster recovery and operational continuity
+- HVAC, UPS and environmental management
+- SOC monitoring and security governance
+- NIST 800-88 media sanitization
+- Enterprise infrastructure resilience concepts
 
-[![Data Center Security](DataCenterSecurity.png)](Videos/DataCenterManualSeguridad.mp4)
+Based on:
+- AWS data center operational models
+- ISO 27001 concepts
+- Enterprise security and compliance practices
 
----
-
-## Barber OS — Software Engineering Project (Part 1)
-
-Topics:
-- Requirements analysis
-- Software engineering workflow
-- UML and architecture concepts
-- Technical communication
-
-[![Barber OS Part 1](ProyectoBarberOS1.png)](Videos/ProyectoBarberOS1.mp4)
+[![Data Center Security](DataCenterSecurity.png)](https://youtu.be/coYWWqHdjvA)
 
 ---
 
-## Barber OS — Software Engineering Project (Part 2)
+## Barber OS — Relational Database Modeling
 
 Topics:
-- GUI and interaction design
-- System implementation
-- User experience concepts
-- Project walkthrough
+- Relational database design
+- Entity relationships
+- Database normalization concepts
+- Software engineering documentation
+- Backend-oriented system organization
 
-[![Barber OS Part 2](ProyectoBarberOS2.png)](Videos/ProyectoBarberOS2.mp4)
+Language:
+- English technical presentation
+
+[![Barber OS Part 1](ProyectoBarberOS1.png)](https://youtu.be/ZS2K9eaxds4)
+
+---
+
+## Barber OS — GUI Interface & User Experience
+
+Topics:
+- GUI interface walkthrough
+- Human-computer interaction concepts
+- User experience visualization
+- Software prototype presentation
+- Frontend interaction concepts
+
+Language:
+- English technical presentation
+
+[![Barber OS Part 2](ProyectoBarberOS2.png)](https://youtu.be/yZEbWO8Y77Q)
 
 ---
 
 ## Kerberoasting Attack Analysis
 
 Topics:
-- Active Directory security
-- Kerberos protocol
-- SPN exploitation
-- Offline credential attacks
+- Active Directory environments
+- Kerberos authentication
+- SPN enumeration
+- Credential extraction attacks
+- Enterprise authentication security
 
-[![Kerberoasting Attack](KerberoastingAttack.png)](Videos/KereberoastingAttack.mp4)
+Environment:
+- Kali Linux
+- Windows 10
+- Windows Server
+- Active Directory
+
+Tools:
+- PowerShell
+- Mimikatz
+- Kerberos ticket extraction techniques
+
+[![Kerberoasting Attack](KerberoastingAttack.png)](https://youtu.be/HA0XJTRafYI)
 
 ---
 
-## Man-in-the-Middle (MITM) Attack Vectors
+## Man-in-the-Middle (MITM) Network Attack
 
 Topics:
 - ARP poisoning
 - Packet interception
-- TLS/HTTPS mitigation
-- Network security fundamentals
+- Network traffic analysis
+- HTTP vs HTTPS security
+- Credential exposure in plaintext traffic
 
-[![MITM Attack](ManInTheMiddle.png)](Videos/ManintheMiddle.mp4)
+Tools:
+- Wireshark
+
+Demonstration:
+- Network packet inspection and traffic visualization
+- Analysis of unsecured communications over HTTP
+- Security implications of missing encryption layers
+
+[![MITM Attack](ManInTheMiddle.png)](https://youtu.be/TU_LINK_AQUI)
 
 ---
 
 # Additional Technical Content
 
-Additional multimedia explainers, software engineering walkthroughs, cybersecurity demonstrations, and educational engineering material are available in the `/videos` directory.
+Additional multimedia explainers, software engineering walkthroughs, cybersecurity demonstrations, and educational engineering material are available in the `/Videos` directory.
 
-For the best viewing experience, videos can be accessed directly from the repository video folder.
+For the best viewing experience, featured videos are linked through YouTube previews above.
 
 ---
 
@@ -117,6 +152,10 @@ For the best viewing experience, videos can be accessed directly from the reposi
 - Multimedia editing tools
 - Git & GitHub
 - Linux & Virtualization Environments
+- Wireshark
+- Active Directory
+- Windows Server
+- Kali Linux
 
 ---
 
@@ -132,9 +171,7 @@ For the best viewing experience, videos can be accessed directly from the reposi
 - Software Engineering Documentation
 - Enterprise Technology Concepts
 
-
 ---
-
 
 # Author
 
@@ -149,3 +186,4 @@ Areas of Interest:
 - AI-assisted Educational Content
 - Enterprise Technology
 - Cybersecurity & Networking
+- Cloud & Data Center Infrastructure
